@@ -1,0 +1,1 @@
+insert into employee_payroll(payroll_id,emp_id,first_name,last_name,role_id,role_name,role_desc) values (1,1000, 'Brad', 'Pitt', '10001', 'A', 'Associate');
